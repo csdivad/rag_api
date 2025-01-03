@@ -1,4 +1,4 @@
-FROM python:3.10 AS main
+FROM python:latest AS main
 
 WORKDIR /app
 
